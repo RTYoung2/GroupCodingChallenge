@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Write a JavaScript function that takes in a random array and outputs two new arrays of odd numbers and even numbers.
 
 // Example:
@@ -55,3 +56,21 @@ console.log(odd);
 
 // console.log(outEven)
 // console.log(outOdd)
+// =======
+// let evenArr = [];
+// let oddArr = [];
+
+// function arrays(...nums) {
+//   for (var i = 0; i < nums.length; i++) {
+//     if (nums[i] % 2 == 0) {
+//       evenArr.push(nums[i]);
+//     } else {
+//       oddArr.push(nums[i]);
+//     }
+//   }
+//   console.log(evenArr);
+//   console.log(oddArr);
+// }
+
+// arrays(1, 2, 3, 4, 5);
+// >>>>>>> ea7428ed70de1d0e86db16d2dbd6ec96e350878b
